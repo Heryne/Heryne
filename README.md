@@ -1,4 +1,10 @@
-## Hi there 👋
+`Aug 6, 2006` `Undergraduate` `pixel art painter`
+
+- 🌐 I'm still studying in pain;
+- 💻 I have a [neocities website](https://heryne.neocities.org/);
+- 🤔 I'm learning CS field with two languages;
+- ⌛ I want more time to improve myself;
+- 🩵 Profile under construction...
 
 <!--
 **Heryne/Heryne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
