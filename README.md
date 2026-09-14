@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+
 `Aug 6, 2006` `Undergraduate` `pixel art painter`
 
 - 🌐 I'm still studying in pain;
@@ -5,6 +7,7 @@
 - 🤔 I'm learning CS field with two languages;
 - ⌛ I want more time to improve myself;
 - 🩵 Profile under construction...
+
 
 <!--
 **Heryne/Heryne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
