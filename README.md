@@ -7,6 +7,6 @@
 - 🤔 I'm learning CS field with two languages;
 - ⌛ I want more time to improve myself;
 - 🩵 Profile under construction...
-- 📧 Reach me: `hai0922@foxmail.com`
+- 📧 Reach me: <a href="mailto:hai0922@foxmail.com" class="txt-blue">hai0922@foxmail.com</a>
 
 ![](https://heryne.neocities.org/heryne_button01.png)
