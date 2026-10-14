@@ -5,6 +5,7 @@
 - 🌐 I'm still studying in pain;
 - 💻 I have a [neocities website](https://heryne.neocities.org/);
 - 🤔 I'm learning CS field with two languages;
+- 👩‍💻 I'm addicted in coding html & css;
 - ⌛ I want more time to improve myself;
 - 🩵 Profile under construction...
 - 📧 Reach me: <a href="mailto:hai0922@foxmail.com" class="txt-blue">hai0922@foxmail.com</a>
