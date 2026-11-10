@@ -10,4 +10,4 @@
 - 🩵 Profile under construction...
 - 📧 Reach me: <a href="mailto:hai0922@foxmail.com" class="txt-blue">hai0922@foxmail.com</a>
 
-![](https://heryne.neocities.org/heryne_button01.png)
+![](https://heryne.neocities.org/heryne_button01.png) ![](https://heryne.neocities.org/assets/resources/button/my-button/Heryne-StardustDoll-btn.gif)
